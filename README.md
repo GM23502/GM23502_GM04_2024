@@ -6,7 +6,7 @@ In this repository, the file with the code, "GM23502_GM04_Notebook.ipynb", is sa
 ### To run the code independently
 
 1. Download the repository and save it on your Desktop. **the setwd() command will have to be modified independently if the user is not running macOS**
-2. Ensure that the R kernel downloaded for Jupyter Notebook. This can be achieved by running the following three lines of code on the R console:
+2. Ensure that the R kernel downloaded for Jupyter Notebook. Donwloading the R kernel can be achieved by running the following three lines of code on the R console:
 
 > install.packages("devtools")
 

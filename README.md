@@ -1,7 +1,7 @@
 # GM23502_GM04_2024
 Repository with an executable Jupyter Notebook with the same code as on the assignment that has been handed in by GM23502 for GM04 Advanced Bioinformatics. The module is offered by the department of Medical Genetics, School of Clinical Medicine, University of Cambridge.
 
-The file with the code, "GM23502_GM04_Notebook.ipynb", is saved with the code having been run and the output being printed. 
+The file with the code, "GM23502_GM04_Notebook.ipynb", is saved with the code having been run and the output being printed. "RVAS_counts.xlsx" is the input file, and "RVAS_results.csv" is the output file with the OR, 95% CIs, P value, and Adjusted P value included.
 
 ### To run the code independently
 

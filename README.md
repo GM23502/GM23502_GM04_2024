@@ -1,7 +1,7 @@
 # GM23502_GM04_2024
 Repository with an executable Jupyter Notebook with the same code as on the assignment that has been handed in by GM23502 for GM04 Advanced Bioinformatics. 
 
-In this repository, the file with the code, "GM23502_GM04_Notebook.ipynb", is saved with the code having been run and the output being printed. 
+The file with the code, "GM23502_GM04_Notebook.ipynb", is saved with the code having been run and the output being printed. 
 
 ### To run the code independently
 

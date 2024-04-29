@@ -36,3 +36,9 @@ The file with the code, "GM23502_GM04_Notebook.ipynb", is saved with the code ha
 - notebook         : 7.0.8
 - qtconsole        : 5.4.2
 - traitlets        : 5.7.1
+
+### Computer software and processing chip used
+
+- Computer: 14-inch 2023 MacBook Pro
+- Chip: Apple M2 Pro
+- MacOS: Sonoma 14.3.1
